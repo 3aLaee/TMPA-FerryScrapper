@@ -14,6 +14,6 @@ This project is created for Tanger Med Port Authority and focuses on building a 
 
 1. Clone this repository to your local machine.
 2. Install the required Python libraries listed in the `requirements.txt` file.
-3. Configure the target website's URL and other relevant settings in the scraper module.
-4. Run the scraper to fetch price data and store it in Excel files.
-5. Run the analysis module to generate Excel files with data analyses.
+3. Check the installed chromedriver vesion to match yours.
+4. Run the GUI.
+5. Check terminal_output.txt for debugging and the output files.
