@@ -1,6 +1,6 @@
 # Python Web Scraper for Price Data Analysis
 
-This project is created for Tanger Med Port Authority and focuses on building a Python web scraper that extracts price data from a specified website. The extracted data is then organized and stored in Excel files.
+This project is created for a Port Authority  as part of my internship. It focuses on building a Python web scraper that extracts ferry prices data from a specified website. The extracted data is then organized and stored in Excel files.
 
 ## Key Components
 
